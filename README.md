@@ -1,7 +1,7 @@
 # job-a-thon-may-2021
+Details of the model 
 
-
-CreFeature Engineering and Preprocessing
+Feature Engineering and Preprocessing
  1)Imputing null values
     Only one column has null values,It has 11 to 12 percent of null values .To impute the
     missing values different methods like least ocuurred value, most occurred value,
